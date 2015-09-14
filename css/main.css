@@ -17,6 +17,7 @@ html {
 
 body {
     overflow-x: hidden;
+    background-color: #181818;
 }
 
 *, *::before, *::after {
@@ -26,4 +27,7 @@ body {
 .box {
     padding: 1em;
     max-width: 30em;
+    margin: 0 auto;
+    color: gold;
+    background-color: black;
 }
