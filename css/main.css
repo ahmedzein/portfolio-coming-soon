@@ -31,3 +31,8 @@ body {
     color: gold;
     background-color: black;
 }
+
+.lion {
+    height: 100px;
+    width: auto;
+}
